@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 9f7b7aba1e275ab4186c4e7ac50a131f
-PackageManifestImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+guid: 9bed450d5c03481d87e61b61431cf00a
+labels:
+- gupmr_manifest
+- gvh
+- gvh_version-1.2.171
+- gvhp_exportpath-package.json
+timeCreated: 0
