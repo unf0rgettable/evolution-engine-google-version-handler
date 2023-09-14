@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e39d3bd9f25844dee8d7e9d417965337
+guid: 2764c5ea3b354f3cb7ca80028fd08da2
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-1.2.176
-- gvhp_exportpath-ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.176_manifest.txt
+- gvh_version-1.2.177
+- gvhp_exportpath-ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.177_manifest.txt
 - gvhp_manifestname-0External Dependency Manager
 - gvhp_manifestname-play-services-resolver
 timeCreated: 1474401009
